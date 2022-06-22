@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cea483e.css",
-    "main.js": "/static/js/main.d7d75bc4.js",
-    "index.html": "/index.html",
-    "main.5cea483e.css.map": "/static/css/main.5cea483e.css.map",
-    "main.d7d75bc4.js.map": "/static/js/main.d7d75bc4.js.map"
+    "main.css": "/jumia-clone/static/css/main.5cea483e.css",
+    "main.js": "/jumia-clone/static/js/main.70e89e7c.js",
+    "index.html": "/jumia-clone/index.html",
+    "main.5cea483e.css.map": "/jumia-clone/static/css/main.5cea483e.css.map",
+    "main.70e89e7c.js.map": "/jumia-clone/static/js/main.70e89e7c.js.map"
   },
   "entrypoints": [
     "static/css/main.5cea483e.css",
-    "static/js/main.d7d75bc4.js"
+    "static/js/main.70e89e7c.js"
   ]
 }
